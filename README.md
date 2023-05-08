@@ -23,7 +23,7 @@ I try out three machine learning algorithms:
 * Gradient Boosting Classifier
 
 Files:
-* `predict_rain_inital.py` : models trained with fewer data and more features
+* `predict_rain_initial.py` : models trained with fewer data and more features
 * `predict_rain.py` : models trained with more data and without unused features (this is the final and more accurate version)
 
 *(I kept both files because of the blog article.)* 
