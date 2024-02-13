@@ -1,5 +1,5 @@
 # ml-rain-tomorrow
-Machine Learning project using Python to predict if it's going to rain tomorrow
+Machine Learning project using Python to predict if it's going to rain tomorrow.
 
 My blog article about this project: [here](https://rolkotech.blogspot.com/2023/05/machine-learning-will-it-rain-tomorrow.html)
 
