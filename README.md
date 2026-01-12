@@ -1,7 +1,7 @@
 # ML Rain Tomorrow
 Machine Learning project using Python to predict if it's going to rain tomorrow.
 
-My blog article about this project: [here](https://rolkotech.blogspot.com/2023/05/machine-learning-will-it-rain-tomorrow.html)
+My blog article about this project: [here](https://www.rolkotech.com/articles/machine-learning-will-it-rain-tomorrow)
 
 ## Description
 
@@ -29,9 +29,9 @@ Files:
 *(I kept both files because of the blog article.)* 
 
 Third-party libraries used:
-* pandas
-* numpy
-* scikit-learn
-* matplotlib
+* `pandas`
+* `numpy`
+* `scikit-learn`
+* `matplotlib`
 
 Python version used for the development: Python 3.9.6
